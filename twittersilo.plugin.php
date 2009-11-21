@@ -7,7 +7,6 @@ class TwitterSilo extends Plugin implements MediaSilo
 	const SILO_NAME = 'Twitter';
 
 	protected $Twitter;
-
 	/**
 	* Return basic information about this silo
 	*     name- The name of the silo, used as the root directory for media in this silo
